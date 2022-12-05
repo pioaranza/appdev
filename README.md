@@ -7,3 +7,4 @@ My first repository.
 
 # Best Movie for me is tron
 *This isnpired me to be a BSIT student*
+*This movie concept of creating an a.i artificial intellegence and heavily focuses on building a world that is made out of an system or code*
